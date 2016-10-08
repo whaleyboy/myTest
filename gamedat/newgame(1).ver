@@ -1,0 +1,6 @@
+Exult version 1.4.9RC1
+Built at: Oct 21 2010 20:28:01
+Compile-time options: USE_FMOPL_MIDI, USE_MT32EMU_MIDI, HAVE_ZIP_SUPPORT
+Compiler: gcc, version: 4.2.1-dw2 (mingw32-2)
+
+Platform: Windows 7 Service Pack 1 Version 6.1 Build 7601
